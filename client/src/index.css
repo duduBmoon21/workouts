@@ -1,0 +1,39 @@
+:root {
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #000000;
+
+}
+
+body {
+  margin: 0;
+  background: #ffffff;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+header {
+  background: #ffffff;
+}
+
+header .container {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 10px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+header a {
+  color: #333;
+  text-decoration: none;
+}
+
+.pages {
+  max-width: 1400px;
+  padding: 30px;
+  margin: 0 auto;
+}
+
+.home {
+  color: #948b8b;
+}
